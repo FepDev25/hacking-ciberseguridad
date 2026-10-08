@@ -1,0 +1,11 @@
+# Curso python hacking
+
+00_introduccion_python
+01_proyecto_googleHacking_IA_automatizacion
+02_investigacion_fuentes_abiertas
+03_escaneo_analisis_de_redes
+04_analisis_vulnerabilidades_en_hosts
+05_explotacion_vulnerabilidades_en_hosts
+06_explotacion_redes_informaticas
+07_aplicaciones_web
+08_post_explotacion_evasion_de_defensas
